@@ -24,7 +24,7 @@ pip install selenium beautifulsoup4 pandas openpyxl
 3. save_to_xlsx(data, filename, download_path)
 
 ### 主程式
-==需更改chromedriver.exe的路徑==
+* **需更改chromedriver.exe的路徑**
 * 可更改搜尋關鍵字(keyword)
 * 可更改爬蟲的頁數(max_pages)，目前預設為2
 * 可更改保存檔案的路徑(download_path)，目前預設為C:\Users\User\Downloads，檔案格式為.xlsx，
