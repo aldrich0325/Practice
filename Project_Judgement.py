@@ -123,7 +123,7 @@ if __name__ == "__main__":
 
     #更改chromedriver.exe的路徑
     service = Service("D:/Microsoft VS Code/Project/chromedriver-win64/chromedriver.exe") 
-    
+
     #輸入想搜尋的關鍵字
     keyword = "拆屋還地" 
     
